@@ -1,1 +1,1 @@
-# wikisql app
+# translate app
